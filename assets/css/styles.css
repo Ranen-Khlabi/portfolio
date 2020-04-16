@@ -7,8 +7,9 @@ html, body{
 
 .name{
 	font-size: 30px;
-	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-family: serif;
 	padding-left: 370px;
+	font-weight: bold;
 }
 
 a {
@@ -118,7 +119,8 @@ a.nav-item:hover {
 
 	.name{
 		font-size: 30px;
-		font-family: fantasy;
+		font-family: serif;
 		padding-left: 30px;
+		font-weight: bold;
 	}
 }
