@@ -2,7 +2,7 @@ html, body{
 	font-size:16px;
 	color: #dfdfdf;
 	background-color: #000000; 
-	font-family: cursive;
+	font-family: sans-serif;
 }
 
 .name{
@@ -115,4 +115,9 @@ a.nav-item:hover {
 		background-color: #fff;
 	}
 
+	.name{
+		font-size: 30px;
+		font-family: fantasy;
+		padding-left: 30px;
+	}
 }
